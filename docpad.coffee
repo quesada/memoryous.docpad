@@ -110,7 +110,7 @@ docpadConfig = {
             changefreq: 'weekly'
             priority: 0.5
 
-  outPath: '.'
+#  outPath: '.'
 
 }
 
