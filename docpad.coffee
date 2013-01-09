@@ -14,9 +14,9 @@ docpadConfig = {
 		# Specify some site properties
 		site:
             title: "Jose quesada: E-commerce database marketing"
-            url: "http://josequesada.com"
+            url: "http://memoryous.com"
 
-            url: "http://josequesada.com"
+            url: "http://memoryous.com"
             author: "Jose Quesada"
             email: "me@josequesada.com"
             description: """
@@ -37,7 +37,8 @@ docpadConfig = {
             email: "me@josequesada.com"
 
 
-		# -----------------------------
+
+# -----------------------------
 		# Helper Functions
 
 		# Get the prepared site/document title
