@@ -1,0 +1,132 @@
+/* line 4, ../sass/train-deck.scss */
+#slider {
+  position: relative;
+  margin-top: 100px;
+}
+/* line 8, ../sass/train-deck.scss */
+#slider .answers {
+  display: none;
+}
+
+/*.deck-container{*/
+/*.reveal{*/
+/*min-height:500px;*/
+/*.progress{*/
+/*background-color:blue;*/
+/*}*/
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+/*.controls div.left,*/
+/*.controls div.left.enabled {*/
+/*border-right-color: darkblue;*/
+/*}*/
+/*.controls div.right,*/
+/*.controls div.right.enabled {*/
+/*border-left-color: darkblue;*/
+/*}*/
+/*.controls div.up,*/
+/*.controls div.up.enabled {*/
+/*border-bottom-color: darkblue;*/
+/*}*/
+/*.controls div.down,*/
+/*.controls div.down.enabled {*/
+/*border-top-color: darkblue;*/
+/*}*/
+/*.controls div.left.enabled:hover {*/
+/*border-right-color: #0000f1;*/
+/*}*/
+/*.controls div.right.enabled:hover {*/
+/*border-left-color: #0000f1;*/
+/*}*/
+/*.controls div.up.enabled:hover {*/
+/*border-bottom-color: #0000f1;*/
+/*}*/
+/*.controls div.down.enabled:hover {*/
+/*border-top-color: #0000f1;*/
+/*}*/
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+/*.progress {*/
+/*background: rgba(0, 0, 0, 0.2);*/
+/*}*/
+/*.progress span {*/
+/*background: darkblue;*/
+/*-webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);*/
+/*-moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);*/
+/*-ms-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);*/
+/*-o-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);*/
+/*transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);*/
+/*}*/
+/*}*/
+/* line 74, ../sass/train-deck.scss */
+section.slide {
+  margin: 1em 0;
+  border: 1px solid #D8D8D8;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: #bfbfbf 2px 2px 10px;
+  -moz-box-shadow: #bfbfbf 2px 2px 10px;
+  box-shadow: #bfbfbf 2px 2px 10px;
+  padding: 5px;
+}
+/* line 80, ../sass/train-deck.scss */
+section.slide h2 {
+  margin: 0 0 1em 0;
+  text-align: center;
+}
+/* line 84, ../sass/train-deck.scss */
+section.slide p.showanswer {
+  text-align: center;
+}
+/* line 87, ../sass/train-deck.scss */
+section.slide div.answers {
+  background-color: #FFFFFF;
+  margin: 0 40px;
+  padding: 1em;
+  border: 1px solid #D8D8D8;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+/* line 94, ../sass/train-deck.scss */
+section.slide ul.buttons {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 60, ../../../../../../software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+section.slide ul.buttons li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+  white-space: nowrap;
+  display: inline;
+  float: left;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+/* line 48, ../../../../../../software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+section.slide ul.buttons li:first-child, section.slide ul.buttons li.first {
+  padding-left: 0;
+}
+/* line 49, ../../../../../../software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+section.slide ul.buttons li:last-child {
+  padding-right: 0;
+}
+/* line 50, ../../../../../../software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+section.slide ul.buttons li.last {
+  padding-right: 0;
+}
+/* line 97, ../sass/train-deck.scss */
+section.slide ul.buttons li a {
+  width: 100%;
+}

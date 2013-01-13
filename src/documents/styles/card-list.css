@@ -1,0 +1,152 @@
+/*$mainColor: #717171;*/
+/* line 5, ../sass/card-list.scss */
+div.card {
+  /*border:1px solid black;*/
+  /*cursor:pointer;*/
+  margin-top: 1em;
+  padding: 0 0 0 0;
+  /*height:100%;*/
+}
+/* line 12, ../sass/card-list.scss */
+div.card .cardcontent {
+  padding: 0 1em;
+  margin-bottom: 1em;
+}
+/* line 16, ../sass/card-list.scss */
+div.card .tags {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 60, /home/antares/software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+div.card .tags li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+  white-space: nowrap;
+  display: inline;
+  float: right;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+/* line 48, /home/antares/software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+div.card .tags li:first-child, div.card .tags li.first {
+  padding-right: 0;
+}
+/* line 49, /home/antares/software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+div.card .tags li:last-child {
+  padding-left: 0;
+}
+/* line 50, /home/antares/software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+div.card .tags li.last {
+  padding-left: 0;
+}
+/* line 18, ../sass/card-list.scss */
+div.card .tags li {
+  font-size: 0.7em;
+  font-style: italic;
+}
+/* line 24, ../sass/card-list.scss */
+div.card .author, div.card .links {
+  text-align: right;
+  font-size: 0.8em;
+  border-bottom: 1px solid #D8D8D8;
+  padding: 5px;
+  margin-bottom: 1em;
+}
+/* line 31, ../sass/card-list.scss */
+div.card .links {
+  border-top: 1px solid #D8D8D8;
+  /*border-bottom:1px none #D8D8D8;*/
+  margin-bottom: 0;
+}
+/* line 36, ../sass/card-list.scss */
+div.card .links ul {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 60, /home/antares/software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+div.card .links ul li {
+  list-style-image: none;
+  list-style-type: none;
+  margin-left: 0;
+  white-space: nowrap;
+  display: inline;
+  float: right;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+/* line 48, /home/antares/software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+div.card .links ul li:first-child, div.card .links ul li.first {
+  padding-right: 0;
+}
+/* line 49, /home/antares/software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+div.card .links ul li:last-child {
+  padding-left: 0;
+}
+/* line 50, /home/antares/software/ruby/gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_horizontal-list.scss */
+div.card .links ul li.last {
+  padding-left: 0;
+}
+/* line 38, ../sass/card-list.scss */
+div.card .links ul li {
+  font-size: 0.8em;
+}
+/* line 48, ../sass/card-list.scss */
+div.card .answers,
+div.card .comments {
+  display: none;
+  padding: 5px;
+}
+/* line 52, ../sass/card-list.scss */
+div.card .answers .answer,
+div.card .answers .comment,
+div.card .comments .answer,
+div.card .comments .comment {
+  background-color: #f2f2f2;
+  margin-bottom: 1em;
+  padding: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  position: relative;
+}
+/* line 59, ../sass/card-list.scss */
+div.card .answers .answer .tools,
+div.card .answers .comment .tools,
+div.card .comments .answer .tools,
+div.card .comments .comment .tools {
+  position: absolute;
+  font-size: 0.7em;
+  font-style: italic;
+  top: 4px;
+  right: 1em;
+}
+/* line 69, ../sass/card-list.scss */
+div.card .addcomment p {
+  margin-bottom: 0;
+}
+/* line 72, ../sass/card-list.scss */
+div.card .addcomment label, div.card .addcomment button {
+  display: none;
+}
+/* line 75, ../sass/card-list.scss */
+div.card .addcomment textarea {
+  margin: 0;
+  padding: 0;
+  /*height:2em;*/
+}
+
+/* line 85, ../sass/card-list.scss */
+.detail.question p {
+  font-weight: bold;
+  color: #009fc5;
+  font-size: 1.2em;
+}

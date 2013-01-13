@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bbd6c68-7298-4c03-8b82-5909290191bf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/LICENSE.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/out/lib/paths.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/out/lib/paths.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-partials/node_modules/bal-util/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/paths.js" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/out/lib/paths.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad-plugin-text/node_modules/bal-util/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/airbrake/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/airbrake/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/out/lib/paths.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/out/lib/paths.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/bal-util/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/caterpillar/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/caterpillar/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/commander/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/commander/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/cson/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/cson/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/buffer-crc32/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/buffer-crc32/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/node_modules/connect/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/express/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/growl/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/growl/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/mime/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/mime/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/query-engine/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/query-engine/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/semver/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/semver/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/underscore/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/underscore/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/History.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/README.md" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/out/lib/watchr.js" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/out/lib/watchr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/watchr/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/node_modules/yamljs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/out/lib/base.js" afterPath="$PROJECT_DIR$/node_modules/docpad/out/lib/base.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/out/lib/docpad.js" afterPath="$PROJECT_DIR$/node_modules/docpad/out/lib/docpad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/docpad/package.json" afterPath="$PROJECT_DIR$/node_modules/docpad/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/sitemap.xml" afterPath="$PROJECT_DIR$/out/sitemap.xml" />
-    </list>
+    <list default="true" id="3bbd6c68-7298-4c03-8b82-5909290191bf" name="Default" comment="" />
     <ignored path="memoryous.docpad.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
